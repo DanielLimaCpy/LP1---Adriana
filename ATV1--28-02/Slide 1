@@ -1,0 +1,25 @@
+1. Altere seu programa para imprimir uma mensagem diferente.
+   public class Main {
+    public static void main(String[] args) {
+        System.out.println("Estou imprimindo uma mensagem!");
+   }
+   }
+   
+   
+2. Altere seu programa para imprimir duas linhas de texto usando
+duas linhas de código System.out.
+    public class Main {
+    public static void main(String[] args) {
+        System.out.println("Estou imprimindo uma mensagem!");
+        System.out.println("Estou imprimindo uma segunda mensagem!");
+   }
+   }
+   
+3. Sabendo que os caracteres \n representam uma quebra de linhas,
+imprima duas linhas de texto usando uma única linha de código
+System.out
+   public class Main {
+    public static void main(String[] args) {
+      System.out.print("Estou imprimindo a mensagem 1!\nA mensagem 2 está sendo impressa!");
+   }
+   }
